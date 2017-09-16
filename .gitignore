@@ -1,0 +1,8 @@
+.metadata/
+RemoteSystemsTempFiles/
+SourceTree.lnk
+sample-vl/bin/
+sample-vl/.classpath
+sample-vl/.project
+sample-vl/.settings/org.eclipse.jdt.core.prefs
+sample-vl/.settings/org.eclipse.ltk.core.refactoring.prefs
